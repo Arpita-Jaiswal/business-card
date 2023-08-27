@@ -1,10 +1,10 @@
--- import: <user_name>.github.io/<repo_name>
+-- import: arpita-jaiswal.github.io/business-card
 -- import: fastn-community.github.io/business-card-1/docs
 
 
 -- docs.how-to-use-card:
-package-name: <repo_name>
-package-full-name: <user_name>.github.io/<repo_name>
-license-url: https://github.com/<user_name>/<repo_name>/blob/main/LICENSE
-github: https://github.com/<user_name>/<repo_name>
-;; category: <repo_name>
+package-name: business-card
+package-full-name: arpita-jaiswal.github.io/business-card
+license-url: https://github.com/arpita-jaiswal/business-card/blob/main/LICENSE
+github: https://github.com/arpita-jaiswal/business-card
+;; category: business-card
