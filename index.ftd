@@ -1,0 +1,53 @@
+-- import: fastn-community.github.io/business-card-1/docs
+-- import: <user_name>.github.io/<repo_name>
+
+
+
+
+;; ---------------- DOCUMENTATION FOR YOUR CARD COMPONENTS ----------------------
+;; This renders the default documentation
+
+-- docs.home-card:
+package-name: <repo_name>
+package-full-name: <user_name>.github.io/<repo_name>
+license-url: https://github.com/<user_name>/<repo_name>/blob/main/LICENSE
+github: https://github.com/<user_name>/<repo_name>
+;; category: <repo_name>
+
+
+
+
+;; ---------------- DEFINE YOUR CARD COMPONENTS -----------------------
+;; Implement your card and card-back components below
+
+/-- component front:
+caption name:
+string title:
+string company:
+ftd.image-src logo:
+optional string contact-1:
+optional string contact-2:
+optional string website-1:
+optional string website-2:
+optional string location:
+
+;; <YOUR IMPLEMENTATION HERE>
+
+/-- end: front
+
+
+
+
+
+
+
+
+
+
+/-- component back:
+caption company:
+ftd.image-src logo:
+
+;; <YOUR IMPLEMENTATION HERE>
+
+/-- end: back

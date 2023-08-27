@@ -1,0 +1,10 @@
+-- import: <user_name>.github.io/<repo_name>
+-- import: fastn-community.github.io/business-card-1/docs
+
+
+-- docs.how-to-use-card:
+package-name: <repo_name>
+package-full-name: <user_name>.github.io/<repo_name>
+license-url: https://github.com/<user_name>/<repo_name>/blob/main/LICENSE
+github: https://github.com/<user_name>/<repo_name>
+;; category: <repo_name>
